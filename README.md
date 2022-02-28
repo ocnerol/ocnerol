@@ -8,7 +8,7 @@
   
 😄 Pronouns: They/he  
   
-📫 How to reach me: [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca)
+📫 How to reach me: through e-mail [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca) or on LinkedIn [linkedin.com/lorenço-alvarez-navarrete](https://www.linkedin.com/in/loren%C3%A7o-alvarez-navarrete/)
 
 <!--
 **ocnerol/ocnerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
