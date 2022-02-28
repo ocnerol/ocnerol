@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🤔 Checkout my latest project: (_Hello, World!_)[https://github.com/tream-deam/hello-world-client/tree/update-readme] a single-page app built with React that offers 1-on-1 video-calling where each participant's has subtitles that are translated live in the co-participant's preferred language  
 💪 I’m currently improving my JavaScript and React skills  
 🌱 I'm looking to collaborate on a team to create software that positively impacts people's wellbeing  
 😄 Pronouns: They/he  
