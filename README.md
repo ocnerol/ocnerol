@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔 Checkout my latest project: [_Hello, World!_](https://github.com/tream-deam/hello-world-client/tree/update-readme) a single-page, collaboratively built app using React that offers 1-on-1 video-calling where with subtitles translated live in the co-participant's preferred language  
+🤔 Checkout my latest project: [_Hello, World!_](https://github.com/tream-deam/hello-world-client/tree/update-readme) a single-page, collaboratively built app using React that offers 1-on-1 video-calling where participants' subtitles are translated live in the co-participant's preferred language  
   
 💪 I’m currently improving my JavaScript and React skills  
   
