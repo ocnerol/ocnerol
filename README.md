@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-• 💪 I’m currently improving my JavaScript and React skills
-• 🌱 I'm looking to collaborate on a team to create software that positively impacts people's wellbeing
-• 😄 Pronouns: They/he
-• 📫 How to reach me: [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca)
+💪 I’m currently improving my JavaScript and React skills  
+🌱 I'm looking to collaborate on a team to create software that positively impacts people's wellbeing  
+😄 Pronouns: They/he  
+📫 How to reach me: [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca)
 
 <!--
 **ocnerol/ocnerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
