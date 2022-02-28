@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🤔 Checkout my latest project: [_Hello, World!_](https://github.com/tream-deam/hello-world-client/tree/update-readme) a single-page, collaboratively built app using React that offers 1-on-1 video-calling where with subtitles translated live in the co-participant's preferred language  
+  
 💪 I’m currently improving my JavaScript and React skills  
-🌱 I'm looking to collaborate on a team to create software that positively impacts people's wellbeing  
+  
+🌱 I'm looking to collaborate on a team to create software that genuinely improves people's wellbeing  
+  
 😄 Pronouns: They/he  
+  
 📫 How to reach me: [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca)
 
 <!--
