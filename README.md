@@ -2,7 +2,7 @@
 
 🤔 Checkout my latest project: [_Hello, World!_](https://github.com/tream-deam/hello-world-client) a single-page, collaboratively built app using React that offers 1-on-1 video-calling where participants' subtitles are translated live in the co-participant's preferred language  
   
-💪 I’m currently improving my JavaScript and React skills  
+💪 I’m currently improving my JavaScript and React skills and learning how to program in React Native
   
 🌱 I'm looking to collaborate on a team to create software that genuinely improves people's wellbeing  
   
