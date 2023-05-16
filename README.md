@@ -3,12 +3,11 @@
 🤔 Checkout my latest project: [_Hello, World!_](https://github.com/tream-deam/hello-world-client) a single-page, collaboratively built app using React that offers 1-on-1 video-calling where participants' subtitles are translated live in the co-participant's preferred language  
   
 💪 I’m currently learning how to develop mobile applications using React Native by building [_Thrifty_](https://github.com/ocnerol/thrifty), a mobile marketplace application for selling what you don't need and buying secondhand items that you do need!
+
   
-🌱 I'm looking to collaborate on a team to create software that genuinely improves people's wellbeing  
+😄 Pronouns: They/he/she
   
-😄 Pronouns: They/he  
-  
-📫 How to reach me: through e-mail [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca) or on LinkedIn [linkedin.com/lorenço-alvarez-navarrete](https://www.linkedin.com/in/loren%C3%A7o-alvarez-navarrete/)
+📫 How to reach me: through e-mail [loralnav@student.ubc.ca](mailto:loralnav@student.ubc.ca) or on LinkedIn [linkedin.com/lorenço-alvarez-navarrete](https://www.linkedin.com/in/lorenco-alvarez-navarrete/)
 
 <!--
 **ocnerol/ocnerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
